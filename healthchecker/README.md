@@ -2,6 +2,8 @@
 
 A tiny tool that checks the given domain is down.
 
+> [🪃Go back](../)
+
 ## Run
 
 ```sh
